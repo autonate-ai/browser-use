@@ -12,7 +12,7 @@ It supports:
 
 Add your target user and message in the config section.
 
-target_user="XXXXX"
+
 message="XXXXX"
 reply_url="XXXXX"
 
